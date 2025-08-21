@@ -92,7 +92,7 @@
 <div class="flex w-full flex-col items-center gap-4">
 	<Form
 		class="w-full"
-		action="https://google.com/search"
+		action="https://purestorage.glean.com"
 		bind:btnI={lucky}
 		bind:btnK={search}
 		bind:input

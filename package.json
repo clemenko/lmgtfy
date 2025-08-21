@@ -1,7 +1,7 @@
 {
 	"name": "@natoboram/lmgtfy",
 	"version": "0.0.2",
-	"description": "A \"Let Me Google That For You\" clone that's open source and doesn't track you when you share it.",
+	"description": "A \"Let Me Glean That For You\" clone that's open source and doesn't track you when you share it.",
 	"keywords": [
 		"Google",
 		"LMGTFY"
